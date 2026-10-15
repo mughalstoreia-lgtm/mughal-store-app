@@ -18,10 +18,10 @@ const footerLinks = {
 };
 
 const socialLinks = [
-  { href: "https://youtube.com", label: "YouTube", icon: FaYoutube },
-  { href: "https://instagram.com", label: "Instagram", icon: FaInstagram },
-  { href: "https://tiktok.com", label: "TikTok", icon: FaTiktok },
-  { href: "https://facebook.com", label: "Facebook", icon: FaFacebookF },
+  { href: "https://youtube.com/@mughalsstore-111?si=a4pU2bv6LI2cuzVe", label: "YouTube", icon: FaYoutube },
+  { href: "https://www.instagram.com/mughals_store111?stkn=aXhob2U5ejg0cmx2", label: "Instagram", icon: FaInstagram },
+  { href: "https://www.tiktok.com/@mughalstore111?_r=1&_t=ZS-9AKApziefS9", label: "TikTok", icon: FaTiktok },
+  { href: "https://www.facebook.com/share/1EbSwP2Zdv/", label: "Facebook", icon: FaFacebookF },
 ];
 
 export default function Footer() {
