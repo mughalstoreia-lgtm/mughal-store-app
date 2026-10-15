@@ -5,6 +5,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
   // Force Turbopack to use this project folder as root
   // (avoids picking up package-lock.json from parent folders like C:\Users\...)
   turbopack: {
